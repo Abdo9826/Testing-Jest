@@ -1,0 +1,23 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdo9826/Testing-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdo9826/Testing-Jest/issues"
+  },
+  "homepage": "https://github.com/Abdo9826/Testing-Jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
